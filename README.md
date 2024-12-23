@@ -23,3 +23,4 @@ php artisan migrate
 create:client
 
 php artisan serve
+# payment
